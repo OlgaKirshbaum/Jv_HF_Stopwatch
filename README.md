@@ -12,8 +12,8 @@
 ------------------------------
 ИСТОЧНИК:
 
-Head First. Программирование для Android / Гриффитс Дон, Гриффитс Дэвид / Питер, 2018 / 912 c. / 
-Коды из книги: https://github.com/dogriffiths/HeadFirstAndroid2ndEdition
+* Head First. Программирование для Android / Гриффитс Дон, Гриффитс Дэвид / Питер, 2018 / 912 c. /  
+* Коды из книги: https://github.com/dogriffiths/HeadFirstAndroid2ndEdition
 
 ------------------------------
 Изображение приложения:
